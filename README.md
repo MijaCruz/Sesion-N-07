@@ -1,1 +1,2 @@
-# Sesion-N-07
+Caso de Estudio Nº 07
+By: Mijail P. Cruz Tarazona
